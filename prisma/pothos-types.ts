@@ -1,5 +1,5 @@
 /* eslint-disable */
-import type { Prisma, Post, User } from "D:\\work\\freelancing\\users-prisma-pothos\\node_modules\\@prisma\\client";
+import type { Prisma, Post, User } from "/home/wakywayne/111/odyssey-voyage-I-pothos-prisma-practice/users/node_modules/@prisma/client";
 export default interface PrismaTypes {
     Post: {
         Name: "Post";
