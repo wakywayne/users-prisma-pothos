@@ -8,4 +8,4 @@ async function getUsers() {
   return users;
 }
 
-console.log(getUsers());
+getUsers().then(data=>console.log(data));
